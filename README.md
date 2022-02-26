@@ -9,7 +9,7 @@
 - <u>remember to checkout to that branch</u> - make sure you're not working on master or committing to master
 
   - use `git checkout branch-name`
-  - ex. `git checkout kevin-1`
+    - ex. `git checkout kevin-1`
   - you can check what branch you're on by using `git status`
 
 - try to commit often and with meaningful messages
