@@ -30,4 +30,6 @@
     git push
     ```
 
-    
+- use `git push` to actually push it up to GitHub
+  - first time pushing on a new branch it'll ask if you want to set upstream, just copy what they have and press enter
+- once you're happy with your push, start a pull request, team members will approve and we will merge
