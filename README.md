@@ -32,5 +32,9 @@
 
 - use `git push` to actually push it up to GitHub
   - first time pushing on a new branch it'll ask if you want to set upstream, just copy what they have and press enter
+  
 - once you're happy with your push, start a pull request, team members will approve and we will merge
+
 - after everything is merged, you can feel free to delete your branch on GitHub
+
+- link if you want to set up [Jupyter lab with R](https://irkernel.github.io/requirements/)
