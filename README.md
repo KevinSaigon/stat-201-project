@@ -3,7 +3,7 @@ Group Memeber: Kevin Nguyen, Sandra Radic, Tien Nguyen, Alex Romanus
 
 This is our STAT 201 Final Project. The aim of the project was to apply statstical inference skilled we learned throughout the semester to answer a question that we had. We decided to do our investigation on the mean age of first-time Olympic medal winners in the Summer Games vs the Winter Games. Hope you enjoy!
 
-### Introduction
+## Introduction
 Every 2 years top athletes are put to the ultimate test - competing at the Olympics amongst their highest competitors. Notoriously, new-talent athletes are introduced at this international event, and winning a medal solidifies their credibility as a top performer (Horne, 2016).
 
 According to Apollaro et al, younger athletes tend to show more success in sports such as taekwondo, due to their physical strength and weight (Apollaro, 2022). However, studies such as by Ford and Williams have demonstrated through experimentation that higher skill level that comes with age contributes to more awards in sports such as soccer (Ford, 2013) or skiing. This leads us to our question: Across the summer and winter Olympics, is there a difference between the mean age of first-time Olympic medal winners?
