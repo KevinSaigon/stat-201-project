@@ -1,7 +1,7 @@
 # STAT 201 Project: Is Older Better?
 Group Memeber: Kevin Nguyen, Sandra Radic, Tien Nguyen, Alex Romanus
 
-This is our STAT 201 Final Project. The aim of the project was to apply statstical inference skilled we learned throughout the semester to answer a question that we had. We decided to do our investigation on the mean age of first-time Olympic medal winners in the Summer Games vs the Winter Games. Hope you enjoy!
+This is our Final Project for STAT 201. The aim of the project was to apply statstical inference skilled we learned throughout the semester to answer a question that we had. We decided to do our investigation on the mean age of first-time Olympic medal winners in the Summer Games vs the Winter Games. Hope you enjoy!
 
 ## Introduction
 Every 2 years top athletes are put to the ultimate test - competing at the Olympics amongst their highest competitors. Notoriously, new-talent athletes are introduced at this international event, and winning a medal solidifies their credibility as a top performer (Horne, 2016).
